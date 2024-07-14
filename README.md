@@ -1,1 +1,1 @@
-# sapu_python
+# sapu_python（PythonVTuberサプー）
